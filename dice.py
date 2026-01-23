@@ -1,5 +1,5 @@
-import sqlite3
 import random
+import sqlite3
 def create_db():
     con=sqlite3.connect("dice.db")
     cur=con.cursor()
@@ -65,5 +65,3 @@ def main():
         else:
             print('Invalid choice')
 main()
-   
-    
