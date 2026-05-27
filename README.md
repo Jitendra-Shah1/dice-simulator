@@ -22,6 +22,6 @@ It allows you to roll dice, view statistics of past rolls, and identify the most
 ---
 
 ##  How to Run
-1. Clone the repository:
-   git clone https://github.com/your-username/dice-simulator.git
-   cd dice-simulator
+Clone the repository:
+git clone https://github.com/Jitendra-Shah1/dice-simulator.git
+cd dice-simulator
